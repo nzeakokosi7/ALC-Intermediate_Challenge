@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:tag="setting_fragment"
+    android:name="com.example.nzeakokosi7.alc_intermediate_challenge.Adapter.Fragments.SettingsFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nzeakokosi7.alc_intermediate_challenge.Activities.SettingsActivity"
+    tools:layout="@layout/activity_main">
+
+</fragment>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_labels">
+        <item>@string/pref_view_list_label</item>
+        <item>@string/pref_view_grid_label</item>
+    </string-array>
+    <string-array name="pref_values">
+        <item>@string/pref_view_list_value</item>
+        <item>@string/pref_view_grid_value</item>
+    </string-array>
+</resources>
